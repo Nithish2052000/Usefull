@@ -1,0 +1,3 @@
+if u want two words to be on the same line then use print if give puts above print they will be on a different line
+whatever u specify then a new line
+update can be done by redeclaring
